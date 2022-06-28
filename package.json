@@ -14,5 +14,13 @@
   },
   "keywords": [],
   "description": "",
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dportugaln/MercadoLiebre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dportugaln/MercadoLiebre/issues"
+  },
+  "homepage": "https://github.com/dportugaln/MercadoLiebre#readme"
 }
